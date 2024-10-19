@@ -1,3 +1,4 @@
+link - https://leetcode.com/problems/find-words-containing-character/description/
 2942. Find Words Containing Character
 
 You are given a 0-indexed array of strings words and a character x.
